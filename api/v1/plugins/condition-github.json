@@ -1,7 +1,7 @@
 {
   "Type": "condition",
   "Name": "github",
-  "LatestRelease": "1.5.0",
+  "LatestRelease": "1.6.0",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2020-08-12T21:12:22Z",
@@ -303,6 +303,53 @@
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "2f855fed4cac4458d837b3579dacb8adb0e43269a0008af7262c300d1145b8ef"
+        }
+      ]
+    },
+    "1.6.0": {
+      "CreatedAt": "2022-05-22T16:45:45Z",
+      "Assets": [
+        {
+          "FileName": "condition-github_v1.6.0_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.6.0/condition-github_v1.6.0_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "c63b15b38a1f2676a212874d4f57c4a11c751e5e0b2c94916165ae930112a156"
+        },
+        {
+          "FileName": "condition-github_v1.6.0_darwin_arm64",
+          "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.6.0/condition-github_v1.6.0_darwin_arm64",
+          "OS": "darwin",
+          "Arch": "arm64",
+          "Checksum": "dc807eb654b2012b028d094d9b9afcbb3cbd7968ee13caa97cafd9019a53cf5c"
+        },
+        {
+          "FileName": "condition-github_v1.6.0_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.6.0/condition-github_v1.6.0_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "8851db80cfa95a7067023a6f383a92cdeec2f51a006a3aec831d689df77dd5e8"
+        },
+        {
+          "FileName": "condition-github_v1.6.0_linux_arm",
+          "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.6.0/condition-github_v1.6.0_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "ca893f21080bd9f88f111e6752aa752139317a02075094b1aa61691d15d0e638"
+        },
+        {
+          "FileName": "condition-github_v1.6.0_linux_arm64",
+          "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.6.0/condition-github_v1.6.0_linux_arm64",
+          "OS": "linux",
+          "Arch": "arm64",
+          "Checksum": "86125ac5e34d875faab303f9acc9e5717d86f48354f216622d8f3cbd8ac8173b"
+        },
+        {
+          "FileName": "condition-github_v1.6.0_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.6.0/condition-github_v1.6.0_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "46e6aafe6a145c975afc700aeb16ad3a6eebf9feb73cf8ce47b6c68e9fc7aea9"
         }
       ]
     }
