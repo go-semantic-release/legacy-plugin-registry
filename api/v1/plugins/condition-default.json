@@ -259,6 +259,53 @@
         }
       ]
     },
+    "1.5.0": {
+      "CreatedAt": "2022-05-22T14:28:39Z",
+      "Assets": [
+        {
+          "FileName": "condition-default_v1.5.0_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/condition-default/releases/download/v1.5.0/condition-default_v1.5.0_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "222a0f82ef91832e071360ebce3541cc660c22fcf62caa1d701a12e6d1badc75"
+        },
+        {
+          "FileName": "condition-default_v1.5.0_darwin_arm64",
+          "URL": "https://github.com/go-semantic-release/condition-default/releases/download/v1.5.0/condition-default_v1.5.0_darwin_arm64",
+          "OS": "darwin",
+          "Arch": "arm64",
+          "Checksum": "163e615171006b914f87780a5e7bf2c1bafa1857eef0f2f3a3214844338fe8f5"
+        },
+        {
+          "FileName": "condition-default_v1.5.0_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/condition-default/releases/download/v1.5.0/condition-default_v1.5.0_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "e63f3ae5a4f51fc69f1a3ac65e31e8dd3c808a9e5d3064caacea08953f399ec5"
+        },
+        {
+          "FileName": "condition-default_v1.5.0_linux_arm",
+          "URL": "https://github.com/go-semantic-release/condition-default/releases/download/v1.5.0/condition-default_v1.5.0_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "ccc7c5bd90b8d351163fee3e8e80619d64d5d8b42d0a0fa2f62ba1585aadfd62"
+        },
+        {
+          "FileName": "condition-default_v1.5.0_linux_arm64",
+          "URL": "https://github.com/go-semantic-release/condition-default/releases/download/v1.5.0/condition-default_v1.5.0_linux_arm64",
+          "OS": "linux",
+          "Arch": "arm64",
+          "Checksum": "e08a28bd3223b52c2de1f635258c040aa293fdea523796aaf753105a0bdff7ac"
+        },
+        {
+          "FileName": "condition-default_v1.5.0_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/condition-default/releases/download/v1.5.0/condition-default_v1.5.0_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "9693fe621529c7b2520a917a6c5de23eaf91e4f59cac6bfb0c68f85a65c749f5"
+        }
+      ]
+    },
     "1.6.0": {
       "CreatedAt": "2022-05-22T16:38:37Z",
       "Assets": [
