@@ -58,5 +58,10 @@
     "Type": "hooks",
     "Name": "goreleaser",
     "Repo": "go-semantic-release/hooks-goreleaser"
+  },
+  {
+    "Type": "hooks",
+    "Name": "npm-binary-releaser",
+    "Repo": "go-semantic-release/hooks-npm-binary-releaser"
   }
 ]
