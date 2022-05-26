@@ -11,6 +11,7 @@
     "provider-git",
     "condition-bitbucket",
     "files-updater-helm",
-    "hooks-goreleaser"
+    "hooks-goreleaser",
+    "hooks-npm-binary-releaser"
   ]
 }
