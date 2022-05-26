@@ -1,7 +1,7 @@
 {
   "Type": "hooks",
   "Name": "npm-binary-releaser",
-  "LatestRelease": "1.1.0",
+  "LatestRelease": "1.1.1",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2022-05-26T17:26:57Z",
@@ -87,6 +87,53 @@
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "c55b8da8f989201b22ae74a6d8de09b9228667d7680fe5b9a7dfda73156b7de6"
+        }
+      ]
+    },
+    "1.1.1": {
+      "CreatedAt": "2022-05-26T18:06:57Z",
+      "Assets": [
+        {
+          "FileName": "hooks-npm-binary-releaser_v1.1.1_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/hooks-npm-binary-releaser/releases/download/v1.1.1/hooks-npm-binary-releaser_v1.1.1_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "618b49edb9b5825399c7705030650b453bce3d269dac6e972d0bb1b6ba5cd58e"
+        },
+        {
+          "FileName": "hooks-npm-binary-releaser_v1.1.1_darwin_arm64",
+          "URL": "https://github.com/go-semantic-release/hooks-npm-binary-releaser/releases/download/v1.1.1/hooks-npm-binary-releaser_v1.1.1_darwin_arm64",
+          "OS": "darwin",
+          "Arch": "arm64",
+          "Checksum": "3ef88e4589618eab76a2f8c48e3f3ffdf352dfe75848fce45a982effd6b4119b"
+        },
+        {
+          "FileName": "hooks-npm-binary-releaser_v1.1.1_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/hooks-npm-binary-releaser/releases/download/v1.1.1/hooks-npm-binary-releaser_v1.1.1_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "9a398294535cd0f5c55141988daaf8843040bb4e0023b2126a7790e7f2d0d2fc"
+        },
+        {
+          "FileName": "hooks-npm-binary-releaser_v1.1.1_linux_arm",
+          "URL": "https://github.com/go-semantic-release/hooks-npm-binary-releaser/releases/download/v1.1.1/hooks-npm-binary-releaser_v1.1.1_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "039e8fcc22f043ab7952ca1f20e507334c4aaa6f300a1198114f27c3f5f50ece"
+        },
+        {
+          "FileName": "hooks-npm-binary-releaser_v1.1.1_linux_arm64",
+          "URL": "https://github.com/go-semantic-release/hooks-npm-binary-releaser/releases/download/v1.1.1/hooks-npm-binary-releaser_v1.1.1_linux_arm64",
+          "OS": "linux",
+          "Arch": "arm64",
+          "Checksum": "78780b6cdfd8c71f6864f65211a9fdf9c338d12f058c4697a1edf56ef78b0ea7"
+        },
+        {
+          "FileName": "hooks-npm-binary-releaser_v1.1.1_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/hooks-npm-binary-releaser/releases/download/v1.1.1/hooks-npm-binary-releaser_v1.1.1_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "50bc7dad2fb268b902bf3bd36440713b74942aff05fda1827d8fced1f9008aa6"
         }
       ]
     }
