@@ -1,7 +1,7 @@
 {
   "Type": "provider",
   "Name": "gitlab",
-  "LatestRelease": "1.8.0",
+  "LatestRelease": "1.9.0",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2020-08-12T18:47:02Z",
@@ -452,6 +452,53 @@
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "3972416ac6b4e7400f96fc211ae72d6aee35a3e8eb634611e58199cbb149b909"
+        }
+      ]
+    },
+    "1.9.0": {
+      "CreatedAt": "2022-07-06T18:07:06Z",
+      "Assets": [
+        {
+          "FileName": "provider-gitlab_v1.9.0_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.9.0/provider-gitlab_v1.9.0_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "0b0a23e17bff575067844a920ef8c9f8656eb0e5c519418149446cd163b42f0d"
+        },
+        {
+          "FileName": "provider-gitlab_v1.9.0_darwin_arm64",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.9.0/provider-gitlab_v1.9.0_darwin_arm64",
+          "OS": "darwin",
+          "Arch": "arm64",
+          "Checksum": "0e9ce3ff7791314392e827cfa52d0b6f0df16b8445e830ac4b76317815f2ea7b"
+        },
+        {
+          "FileName": "provider-gitlab_v1.9.0_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.9.0/provider-gitlab_v1.9.0_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "8adc382280271087068af6bb44cfc3b39a7a67a84c37a3f023935158a49424e1"
+        },
+        {
+          "FileName": "provider-gitlab_v1.9.0_linux_arm",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.9.0/provider-gitlab_v1.9.0_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "6a7fcb9960a20e990269b3831056da17983a0ee85622eb00a3e64703eb675a53"
+        },
+        {
+          "FileName": "provider-gitlab_v1.9.0_linux_arm64",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.9.0/provider-gitlab_v1.9.0_linux_arm64",
+          "OS": "linux",
+          "Arch": "arm64",
+          "Checksum": "ad1bd19d7d4ef609176e92ebd752afbcb7afe90454aa83759c938a4e873bb3f4"
+        },
+        {
+          "FileName": "provider-gitlab_v1.9.0_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/provider-gitlab/releases/download/v1.9.0/provider-gitlab_v1.9.0_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "6c772bbd3f80fb837d5d79ee65de681ea155d467ab04b90187fe7fcca5955da6"
         }
       ]
     }
