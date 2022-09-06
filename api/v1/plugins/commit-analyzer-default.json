@@ -326,42 +326,42 @@
           "URL": "https://github.com/go-semantic-release/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "a53d0fc0073c88e5c3d3a714b0de1da5f051f11af17979f8fba53b355d0d1427"
         },
         {
           "FileName": "commit-analyzer-cz_v1.6.0_darwin_arm64",
           "URL": "https://github.com/go-semantic-release/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "ff6500f3fdda770929b2668f02c7007c290c77fa6f1461917ce748a63d147f9e"
         },
         {
           "FileName": "commit-analyzer-cz_v1.6.0_linux_amd64",
           "URL": "https://github.com/go-semantic-release/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "a089bba24027107b671bdc63eb08822771d5393a4c21ac3f9f7a9eebb26fa181"
         },
         {
           "FileName": "commit-analyzer-cz_v1.6.0_linux_arm",
           "URL": "https://github.com/go-semantic-release/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "cdabca112cf894fed54e668a33d6f6e2356037c2a3ef0285cb332d20c336b1e5"
         },
         {
           "FileName": "commit-analyzer-cz_v1.6.0_linux_arm64",
           "URL": "https://github.com/go-semantic-release/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "ef96aa433ba2ad51a6956b33a08e7f6a843651af633ba4e6bbe7cc7f776e0cc5"
         },
         {
           "FileName": "commit-analyzer-cz_v1.6.0_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/commit-analyzer-cz/releases/download/v1.6.0/commit-analyzer-cz_v1.6.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "6be4693aaff874ecd3d5ea6609045b17847b6c0bf7025e2d3518497ebe6e08e8"
         }
       ]
     },
