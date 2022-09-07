@@ -110,42 +110,42 @@
           "URL": "https://github.com/go-semantic-release/provider-github/releases/download/v1.10.0/provider-github_v1.10.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "f1d9bb2c04968e1c735c0de5d1aaa455e694155f02e2127f7927c9656db48248"
+          "Checksum": ""
         },
         {
           "FileName": "provider-github_v1.10.0_darwin_arm64",
           "URL": "https://github.com/go-semantic-release/provider-github/releases/download/v1.10.0/provider-github_v1.10.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": "321c6304d30cc6e0e8494e94bce274dfd8c724af5e8f6793e4c04a29c55c711a"
+          "Checksum": ""
         },
         {
           "FileName": "provider-github_v1.10.0_linux_amd64",
           "URL": "https://github.com/go-semantic-release/provider-github/releases/download/v1.10.0/provider-github_v1.10.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "70c6d7b9af799789127535484b3b2453549fd1feb57e95d0375473184f06e0d6"
+          "Checksum": ""
         },
         {
           "FileName": "provider-github_v1.10.0_linux_arm",
           "URL": "https://github.com/go-semantic-release/provider-github/releases/download/v1.10.0/provider-github_v1.10.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "20fa42cc0b51c98cbc7925148ed68f88a92d4404fcf2fed25ccb09dd5c6a5754"
+          "Checksum": ""
         },
         {
           "FileName": "provider-github_v1.10.0_linux_arm64",
           "URL": "https://github.com/go-semantic-release/provider-github/releases/download/v1.10.0/provider-github_v1.10.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": "38fe1bc4bd842dccd707846de093f680a71c618294316e4870de05d25dc52ff4"
+          "Checksum": ""
         },
         {
           "FileName": "provider-github_v1.10.0_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/provider-github/releases/download/v1.10.0/provider-github_v1.10.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "4da8a4b67f3397e8961a6d113ac01a27503805328350be0b6db42501f4fe6605"
+          "Checksum": ""
         }
       ]
     },
