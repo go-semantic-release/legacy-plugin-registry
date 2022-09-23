@@ -152,42 +152,42 @@
           "URL": "https://github.com/go-semantic-release/hooks-goreleaser/releases/download/v1.2.0/hooks-goreleaser_v1.2.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "eaf7cce9a3d267ce36e47ce60ee30a13c45500b4e0a1c8684e8f6554e2aedcb5"
         },
         {
           "FileName": "hooks-goreleaser_v1.2.0_darwin_arm64",
           "URL": "https://github.com/go-semantic-release/hooks-goreleaser/releases/download/v1.2.0/hooks-goreleaser_v1.2.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "97d09c24111d901b6db4de81e0769a16c3a9b1deaa60a47acaa6fb1b5b176492"
         },
         {
           "FileName": "hooks-goreleaser_v1.2.0_linux_amd64",
           "URL": "https://github.com/go-semantic-release/hooks-goreleaser/releases/download/v1.2.0/hooks-goreleaser_v1.2.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "ddb1622e1d6193ebd6e2df08d9ce9359b11cf73f7bc7a895fc022ae4f0ed4b39"
         },
         {
           "FileName": "hooks-goreleaser_v1.2.0_linux_arm",
           "URL": "https://github.com/go-semantic-release/hooks-goreleaser/releases/download/v1.2.0/hooks-goreleaser_v1.2.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "82d7f290c1086ff1ceef5a60ab49c195f4504028dae744b97150719583cb713a"
         },
         {
           "FileName": "hooks-goreleaser_v1.2.0_linux_arm64",
           "URL": "https://github.com/go-semantic-release/hooks-goreleaser/releases/download/v1.2.0/hooks-goreleaser_v1.2.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "280ed981b9098faceb0ffadbcddeb9a51dd0aaa39cbaf9a9f1502342b830488e"
         },
         {
           "FileName": "hooks-goreleaser_v1.2.0_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/hooks-goreleaser/releases/download/v1.2.0/hooks-goreleaser_v1.2.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "c1e6e1b4ee24eeb63307ad628855c2dfd79398530887815a0eae5a5adc8d76e5"
         }
       ]
     }
