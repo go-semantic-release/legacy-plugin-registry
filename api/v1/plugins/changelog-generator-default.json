@@ -77,28 +77,28 @@
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.2.0/changelog-generator-default_v1.2.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "432417e0a956f44fad761f1f690bd2816bdd6f46b07d6195afdceac20312d591"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.2.0_linux_amd64",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.2.0/changelog-generator-default_v1.2.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "05db5ab778c9a30213b044136cc78b68dd6c83b2ac9b82bbc7f9fb521f291ccc"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.2.0_linux_arm",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.2.0/changelog-generator-default_v1.2.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "fc2a420e53e97815ade929737ea077e2e41490102202646cd786ddee45fafff9"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.2.0_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.2.0/changelog-generator-default_v1.2.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "9c1a8ad5484e2a193c745c60b08c9953d99bc202b594a94abad4bc5d6600b5b2"
+          "Checksum": ""
         }
       ]
     },
@@ -176,28 +176,28 @@
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.4.0/changelog-generator-default_v1.4.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "9cefc5688681e2d5b7834dc6fb88c1604a8b8b1a5310d43aa8c32d1fc5a93958"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.4.0_linux_amd64",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.4.0/changelog-generator-default_v1.4.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "78d83553b3991abb77d1d094b6242e1961c7bb4418057a52d94897338b0b6173"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.4.0_linux_arm",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.4.0/changelog-generator-default_v1.4.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "ccc148b3443df7e2534f4b9e39ca20ff80f83d727fed43a46bea1b81ba262e1e"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.4.0_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.4.0/changelog-generator-default_v1.4.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "e70b5f2d0624f67a70b3171440154614bd6483f4cf0c4f51936baa983de5dbaf"
+          "Checksum": ""
         }
       ]
     },
@@ -242,28 +242,28 @@
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.5.0/changelog-generator-default_v1.5.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "bfbfc41e9e7b5c7f7e868cc0dd7402fd8525a2d23b39386588601bdf599a1587"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.5.0_linux_amd64",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.5.0/changelog-generator-default_v1.5.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "2654a4b3a87f89a78834dcdc2d2060d581be9227fbfecc899b7922462fe0b4ca"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.5.0_linux_arm",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.5.0/changelog-generator-default_v1.5.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "64f97a0aed4e8a749ea9f90bbbb6b4c6952ef3a46b526c778616f3727b435350"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.5.0_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.5.0/changelog-generator-default_v1.5.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "f9da442f76e65d54731af83ceeb68497f5b21f9ae96bf3cfe1cc0d45a274e451"
+          "Checksum": ""
         }
       ]
     },
@@ -279,35 +279,35 @@
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.6.1/changelog-generator-default_v1.6.1_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "eb349205d2a76f84420d38c7923476b891b3d9ca07670781a03cf310e805cadd"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.6.1_darwin_arm64",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.6.1/changelog-generator-default_v1.6.1_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": "9041cae93de7d5e84b18f475c1e9095a79590829ef8e9736b715888f462e46d8"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.6.1_linux_amd64",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.6.1/changelog-generator-default_v1.6.1_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "f25a2f8ac45b36d6373cdd2f3309958b661df830466d65199084abaf92e313a1"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.6.1_linux_arm",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.6.1/changelog-generator-default_v1.6.1_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "3befaf0a9c6fb3120fe87e2468a15fd54f0dac1389a3083eb9a2769cbeae9067"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.6.1_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.6.1/changelog-generator-default_v1.6.1_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "53282cf3000c5d0bebc0fdda29c20f93ed5ad47c425db18a7bf396bf307666ad"
+          "Checksum": ""
         }
       ]
     },
@@ -366,42 +366,42 @@
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.8.0/changelog-generator-default_v1.8.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "86ef8d4c0735ba2764ae97303970a689f365f4828fbd2357a3cb2e224b49f9d6"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.8.0_darwin_arm64",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.8.0/changelog-generator-default_v1.8.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": "0664c4a6d87174cea096e05fcfcf221979c21ff1a3f63a828c230e8c0c85dbb2"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.8.0_linux_amd64",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.8.0/changelog-generator-default_v1.8.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "6086f9951c55bd8708f854ddf61ad9643ca39cbc3aee3447e4fe4e062cfda50c"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.8.0_linux_arm",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.8.0/changelog-generator-default_v1.8.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "20391dd9a8c4ed1c005e72d457bb1548266e0784a1cbc3336b3e72dee8002210"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.8.0_linux_arm64",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.8.0/changelog-generator-default_v1.8.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": "7081d1a8dbb8e68e395f796d750b120f9709316c69ee9d41b1ecf601d723bd40"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.8.0_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.8.0/changelog-generator-default_v1.8.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "1820226ce99351e7b662cc3bfb0f28ac37b09fed036bdfda3420ae86dcfec97e"
+          "Checksum": ""
         }
       ]
     },
@@ -413,42 +413,42 @@
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.9.0/changelog-generator-default_v1.9.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": "02cb5e961d4678429e5a46a7a50f6901d20c43ff17850af48463e330dfd31a1f"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.9.0_darwin_arm64",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.9.0/changelog-generator-default_v1.9.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": "51e79ddaebb4292506337d5dcaac65bac84e88c6de34c41a3bc65d0d41ead4f9"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.9.0_linux_amd64",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.9.0/changelog-generator-default_v1.9.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": "5d24543589eedb1c5afe92c1892a0eb912b2cbc6ca1200bbcf16c0dcf2a1a214"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.9.0_linux_arm",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.9.0/changelog-generator-default_v1.9.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": "9167ed53352cc969a5a757abdf4e4f870efa0a2b0003c2c8ffbf840a67a1f7e8"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.9.0_linux_arm64",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.9.0/changelog-generator-default_v1.9.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": "9b6a75c308e15f7405748a6af11793d803633ee52c08c79c7f115937da287cab"
+          "Checksum": ""
         },
         {
           "FileName": "changelog-generator-default_v1.9.0_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/changelog-generator-default/releases/download/v1.9.0/changelog-generator-default_v1.9.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": "f9c14ecd4f9cbd74288528b01cbd43884b737fe7b15dd833abecdb28c2b599b0"
+          "Checksum": ""
         }
       ]
     }
