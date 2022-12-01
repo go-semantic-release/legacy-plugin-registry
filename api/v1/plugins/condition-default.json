@@ -1,7 +1,7 @@
 {
   "Type": "condition",
   "Name": "default",
-  "LatestRelease": "1.6.0",
+  "LatestRelease": "1.5.0",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2020-08-12T20:57:54Z",
