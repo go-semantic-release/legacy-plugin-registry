@@ -267,42 +267,42 @@
           "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "1620dc9f26142ac31820b5967fbb330e6b1107d07248fd3027eb35d4b835b2fa"
         },
         {
           "FileName": "condition-github_v1.5.0_darwin_arm64",
           "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "fbb658b931fe30d20d8e7fd29b559ff3942cbd5103ad927a40e87ad3958acdd4"
         },
         {
           "FileName": "condition-github_v1.5.0_linux_amd64",
           "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "7d46e14a7dc3c69246bb9fb253af2c234259ba49a0fbd4ae4973dc80af9f79ec"
         },
         {
           "FileName": "condition-github_v1.5.0_linux_arm",
           "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "e75679e6ac9272b95b93f965d6af2405b550a64354842eefa77a4fa8fd96eb32"
         },
         {
           "FileName": "condition-github_v1.5.0_linux_arm64",
           "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "4da953c4ceeed6c39acb0d494052634f51f22d0385391a13e768eb41fa36d993"
         },
         {
           "FileName": "condition-github_v1.5.0_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/condition-github/releases/download/v1.5.0/condition-github_v1.5.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "2f855fed4cac4458d837b3579dacb8adb0e43269a0008af7262c300d1145b8ef"
         }
       ]
     },
