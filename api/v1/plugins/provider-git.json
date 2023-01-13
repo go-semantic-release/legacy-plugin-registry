@@ -248,42 +248,42 @@
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.3.1/provider-git_v1.3.1_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "e4ce490919cd89cd1256cfc4fdbf2ce65f14ceab87d77ed5751352486cff1809"
         },
         {
           "FileName": "provider-git_v1.3.1_darwin_arm64",
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.3.1/provider-git_v1.3.1_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "85c1ae58895bcc7f08dabe9681599116a75ad468f19ead6cd410e2d248089355"
         },
         {
           "FileName": "provider-git_v1.3.1_linux_amd64",
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.3.1/provider-git_v1.3.1_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "1dcbf83646734091c3f64bfb29c9eb3080f638e62a0a27a722956438733468a8"
         },
         {
           "FileName": "provider-git_v1.3.1_linux_arm",
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.3.1/provider-git_v1.3.1_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "9d327dff5a723aa3337cea616b9e693b4aecfd8ea4201d5f170895361f3c33af"
         },
         {
           "FileName": "provider-git_v1.3.1_linux_arm64",
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.3.1/provider-git_v1.3.1_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "07a96e4cd8f9b16ae8ff8668914b380d57726500ba2a603cdbfb6f3062d17c12"
         },
         {
           "FileName": "provider-git_v1.3.1_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.3.1/provider-git_v1.3.1_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "f0b26d708ecdc007f8a1e167ef02bf2ea65e807daf899a53a1e591dcce82c927"
         }
       ]
     },
@@ -295,42 +295,42 @@
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.4.0/provider-git_v1.4.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "881d7af5e5b4041530cff5e8fff5d7e801923beb9411d8732a697c314d089d9a"
         },
         {
           "FileName": "provider-git_v1.4.0_darwin_arm64",
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.4.0/provider-git_v1.4.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "11ab1f00e91d1da1364024a5499f7cfab1ecad709b689d0cb4375c358d53498f"
         },
         {
           "FileName": "provider-git_v1.4.0_linux_amd64",
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.4.0/provider-git_v1.4.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "71f0d9f94e8b698c34bd912e57a3664bee427cecf8ebf552f8165ae58cfbeaaf"
         },
         {
           "FileName": "provider-git_v1.4.0_linux_arm",
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.4.0/provider-git_v1.4.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "d9695be1c3b8eb2d043ce99b3ad61a348ef14ec3bb0a3dd6d112f135bd463f3d"
         },
         {
           "FileName": "provider-git_v1.4.0_linux_arm64",
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.4.0/provider-git_v1.4.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "603be157ccc6aef5cf83a84f7ea7c096f2db95f4436f5d1113d77313c896ece9"
         },
         {
           "FileName": "provider-git_v1.4.0_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.4.0/provider-git_v1.4.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "db176131ff064d5b2fae3de30db7e1b4784f743bed6cbaa4ad931c8c96a58585"
         }
       ]
     },
