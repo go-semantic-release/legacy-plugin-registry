@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"io/ioutil"
+	"io"
 	"net/http"
 	"os"
 	"path"
@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"github.com/Masterminds/semver/v3"
-	"github.com/google/go-github/v37/github"
+	"github.com/google/go-github/v49/github"
 	"golang.org/x/oauth2"
 )
 
@@ -64,7 +64,7 @@ type Plugins struct {
 const DestDir = "./plugin-index/api/v1/"
 
 func writeJSON(path string, data interface{}) error {
-	file, err := os.OpenFile(path, os.O_CREATE|os.O_WRONLY, 0755)
+	file, err := os.OpenFile(path, os.O_CREATE|os.O_WRONLY, 0o755)
 	if err != nil {
 		return err
 	}
@@ -118,7 +118,7 @@ func fetchChecksumFile(url string) map[string]string {
 		fmt.Println(err)
 		return nil
 	}
-	checksums, err := ioutil.ReadAll(res.Body)
+	checksums, err := io.ReadAll(res.Body)
 	res.Body.Close()
 	if err != nil {
 		fmt.Println(err)
@@ -252,11 +252,11 @@ func main() {
 
 	fmt.Printf("creating %s\n", DestDir)
 	checkError(os.RemoveAll("./plugin-index"))
-	checkError(os.MkdirAll(DestDir, 0755))
+	checkError(os.MkdirAll(DestDir, 0o755))
 
 	plugDir := path.Join(DestDir, "plugins")
 	fmt.Printf("creating %s\n", plugDir)
-	checkError(os.MkdirAll(plugDir, 0755))
+	checkError(os.MkdirAll(plugDir, 0o755))
 
 	for _, p := range transformedPlugins {
 		plugPath := path.Join(plugDir, p.Type+"-"+p.Name+".json")
