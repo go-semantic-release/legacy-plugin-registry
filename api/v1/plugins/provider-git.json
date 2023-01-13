@@ -1,7 +1,7 @@
 {
   "Type": "provider",
   "Name": "git",
-  "LatestRelease": "1.5.0",
+  "LatestRelease": "1.6.0",
   "Versions": {
     "1.0.0": {
       "CreatedAt": "2020-11-02T21:53:04Z",
@@ -378,6 +378,53 @@
           "OS": "windows",
           "Arch": "amd64",
           "Checksum": "7ab5501df7df69c3262cc4e29e685f26df1653adf6b8a43b6d99ba071fb1262c"
+        }
+      ]
+    },
+    "1.6.0": {
+      "CreatedAt": "2023-01-13T13:21:17Z",
+      "Assets": [
+        {
+          "FileName": "provider-git_v1.6.0_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.6.0/provider-git_v1.6.0_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "cff0be40b946efe09e7347477e49936ece49c7be92b2c476432e56a23211797f"
+        },
+        {
+          "FileName": "provider-git_v1.6.0_darwin_arm64",
+          "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.6.0/provider-git_v1.6.0_darwin_arm64",
+          "OS": "darwin",
+          "Arch": "arm64",
+          "Checksum": "92b4fc4a395965a0163510d49d78c0dd1e965db819e634a10bee8995a946c550"
+        },
+        {
+          "FileName": "provider-git_v1.6.0_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.6.0/provider-git_v1.6.0_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "a7e0db4393712e2b9417653a90a6daf8c4bbaa651a151739eaee1b9398565772"
+        },
+        {
+          "FileName": "provider-git_v1.6.0_linux_arm",
+          "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.6.0/provider-git_v1.6.0_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "8af443a5f6a9789a5d28b4754041d1496e00bc141a67bf2f84d7eabc7038a134"
+        },
+        {
+          "FileName": "provider-git_v1.6.0_linux_arm64",
+          "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.6.0/provider-git_v1.6.0_linux_arm64",
+          "OS": "linux",
+          "Arch": "arm64",
+          "Checksum": "340c16d18982c197e08b7efcb6d80fdafc8928bb939dd3095d6b85587c45bc7b"
+        },
+        {
+          "FileName": "provider-git_v1.6.0_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/provider-git/releases/download/v1.6.0/provider-git_v1.6.0_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "fe14840e72cd318e4506a4ef0e2858f7a5b3f317b28ab0af0057b339792d072d"
         }
       ]
     }
