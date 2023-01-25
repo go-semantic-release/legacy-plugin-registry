@@ -328,42 +328,42 @@
           "URL": "https://github.com/go-semantic-release/files-updater-npm/releases/download/v1.7.0/files-updater-npm_v1.7.0_darwin_amd64",
           "OS": "darwin",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "026c85255f81aea54f4c62d4696cc4457ad199f42725b9d4e55db78002ce152c"
         },
         {
           "FileName": "files-updater-npm_v1.7.0_darwin_arm64",
           "URL": "https://github.com/go-semantic-release/files-updater-npm/releases/download/v1.7.0/files-updater-npm_v1.7.0_darwin_arm64",
           "OS": "darwin",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "cc065e2e210cc16e3a3621804967e2fc491e259fb93c4e89de6e2ec4d4874931"
         },
         {
           "FileName": "files-updater-npm_v1.7.0_linux_amd64",
           "URL": "https://github.com/go-semantic-release/files-updater-npm/releases/download/v1.7.0/files-updater-npm_v1.7.0_linux_amd64",
           "OS": "linux",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "40f95c9867a0aa7e086c2033f74c16e67f87bf2e43b8eec3ac93145970a512cc"
         },
         {
           "FileName": "files-updater-npm_v1.7.0_linux_arm",
           "URL": "https://github.com/go-semantic-release/files-updater-npm/releases/download/v1.7.0/files-updater-npm_v1.7.0_linux_arm",
           "OS": "linux",
           "Arch": "arm",
-          "Checksum": ""
+          "Checksum": "32bf91134c00ea902b0dc075a17edce62974a5a8db025d00d86f712dda5a1fa3"
         },
         {
           "FileName": "files-updater-npm_v1.7.0_linux_arm64",
           "URL": "https://github.com/go-semantic-release/files-updater-npm/releases/download/v1.7.0/files-updater-npm_v1.7.0_linux_arm64",
           "OS": "linux",
           "Arch": "arm64",
-          "Checksum": ""
+          "Checksum": "5dce3458f698983dfeada8ca0023bd8458cb57d615585950978f0f93b9c732b5"
         },
         {
           "FileName": "files-updater-npm_v1.7.0_windows_amd64.exe",
           "URL": "https://github.com/go-semantic-release/files-updater-npm/releases/download/v1.7.0/files-updater-npm_v1.7.0_windows_amd64.exe",
           "OS": "windows",
           "Arch": "amd64",
-          "Checksum": ""
+          "Checksum": "06ab3a02151a415684ac9a21d9ec0cd1669d4ee1be2b742a9b86817f8f585544"
         }
       ]
     }
