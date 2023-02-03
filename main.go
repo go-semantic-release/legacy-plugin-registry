@@ -194,6 +194,10 @@ func getPluginReleases(owner, repo string) (map[string]*PluginRelease, error) {
 		if err != nil {
 			continue
 		}
+		if len(r.Assets) == 0 {
+			continue
+		}
+
 		vStr := v.String()
 		ret[vStr] = &PluginRelease{
 			CreatedAt: r.GetCreatedAt().Time,
