@@ -63,5 +63,10 @@
     "Type": "hooks",
     "Name": "npm-binary-releaser",
     "Repo": "go-semantic-release/hooks-npm-binary-releaser"
+  },
+  {
+    "Type": "hooks",
+    "Name": "npm-binary-releaser",
+    "Repo": "go-semantic-release/hooks-plugin-registry-update"
   }
 ]
