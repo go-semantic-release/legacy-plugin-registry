@@ -1,0 +1,58 @@
+{
+  "Type": "hooks",
+  "Name": "plugin-registry-update",
+  "LatestRelease": "1.0.1",
+  "Versions": {
+    "1.0.0": {
+      "CreatedAt": "2023-02-03T13:49:17Z",
+      "Assets": []
+    },
+    "1.0.1": {
+      "CreatedAt": "2023-02-03T13:56:07Z",
+      "Assets": [
+        {
+          "FileName": "hooks-plugin-registry-update_v1.0.1_darwin_amd64",
+          "URL": "https://github.com/go-semantic-release/hooks-plugin-registry-update/releases/download/v1.0.1/hooks-plugin-registry-update_v1.0.1_darwin_amd64",
+          "OS": "darwin",
+          "Arch": "amd64",
+          "Checksum": "c9e341b06f1dc76bd9597645417b3b7819894ec0dfd6fe5e079fac4b0542d9fa"
+        },
+        {
+          "FileName": "hooks-plugin-registry-update_v1.0.1_darwin_arm64",
+          "URL": "https://github.com/go-semantic-release/hooks-plugin-registry-update/releases/download/v1.0.1/hooks-plugin-registry-update_v1.0.1_darwin_arm64",
+          "OS": "darwin",
+          "Arch": "arm64",
+          "Checksum": "7dd50ebb056369cc9b6b47694b2ef5f00f9d1c0d60f1d041117283189f62576f"
+        },
+        {
+          "FileName": "hooks-plugin-registry-update_v1.0.1_linux_amd64",
+          "URL": "https://github.com/go-semantic-release/hooks-plugin-registry-update/releases/download/v1.0.1/hooks-plugin-registry-update_v1.0.1_linux_amd64",
+          "OS": "linux",
+          "Arch": "amd64",
+          "Checksum": "763cb2dab27ae29ab8415ab748569de078f92841959ff6f2ccbfcdaf463f0a8d"
+        },
+        {
+          "FileName": "hooks-plugin-registry-update_v1.0.1_linux_arm",
+          "URL": "https://github.com/go-semantic-release/hooks-plugin-registry-update/releases/download/v1.0.1/hooks-plugin-registry-update_v1.0.1_linux_arm",
+          "OS": "linux",
+          "Arch": "arm",
+          "Checksum": "8ad17013121e876be4dc5da4dc4e11e80426cfc8feb944412398b73a6ab6ffce"
+        },
+        {
+          "FileName": "hooks-plugin-registry-update_v1.0.1_linux_arm64",
+          "URL": "https://github.com/go-semantic-release/hooks-plugin-registry-update/releases/download/v1.0.1/hooks-plugin-registry-update_v1.0.1_linux_arm64",
+          "OS": "linux",
+          "Arch": "arm64",
+          "Checksum": "04d54cd4a500494a5780631869b97fc486dd2d50d0aaad04acc61cba7a2c30e8"
+        },
+        {
+          "FileName": "hooks-plugin-registry-update_v1.0.1_windows_amd64.exe",
+          "URL": "https://github.com/go-semantic-release/hooks-plugin-registry-update/releases/download/v1.0.1/hooks-plugin-registry-update_v1.0.1_windows_amd64.exe",
+          "OS": "windows",
+          "Arch": "amd64",
+          "Checksum": "29244b7964ae6ed4260d4015a7aa1536e47c65b0f20ca800504e07c2efe31a94"
+        }
+      ]
+    }
+  }
+}
