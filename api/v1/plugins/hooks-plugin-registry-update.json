@@ -3,10 +3,6 @@
   "Name": "plugin-registry-update",
   "LatestRelease": "1.0.1",
   "Versions": {
-    "1.0.0": {
-      "CreatedAt": "2023-02-03T13:49:17Z",
-      "Assets": []
-    },
     "1.0.1": {
       "CreatedAt": "2023-02-03T13:56:07Z",
       "Assets": [
