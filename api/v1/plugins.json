@@ -12,6 +12,7 @@
     "condition-bitbucket",
     "files-updater-helm",
     "hooks-goreleaser",
+    "hooks-npm-binary-releaser",
     "hooks-npm-binary-releaser"
   ]
 }
